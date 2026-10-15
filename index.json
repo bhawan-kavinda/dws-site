@@ -1,0 +1,100 @@
+{
+  "_readme": "Edit all text, links and image paths for the site here. Icon names available: whatsapp, telegram, x, reddit, github, patreon, youtube, discord, instagram, facebook, tiktok, link. Add or remove items in \"links.items\" freely.",
+  "site": {
+    "title": "Dev With Spoon! – Links",
+    "language": "en",
+    "favicon": "🥄"
+  },
+  "images": {
+    "logo": "assets/logo.png",
+    "banner": "assets/banner.svg"
+  },
+  "hero": {
+    "name": "Dev With Spoon!",
+    "tagline": "Learn to code, build real projects and grow together with other developers.",
+    "prompt": "~/dws $ code, learn, share"
+  },
+  "about": {
+    "heading": "~/about",
+    "paragraphs": [
+      "Dev With Spoon is a developer community built around one idea: programming is easier when it's served in small, digestible bites.",
+      "We share tutorials, practical tips and open-source projects for beginners and working developers alike. Whether you're writing your first line of HTML or shipping a full-stack app, you'll find someone here to learn with."
+    ],
+    "highlights": [
+      {
+        "title": "Tutorials",
+        "text": "Step-by-step guides on web development and programming basics."
+      },
+      {
+        "title": "Projects",
+        "text": "Real projects and starter templates you can fork and build on."
+      },
+      {
+        "title": "Community",
+        "text": "Ask questions, share your work and get feedback from others."
+      }
+    ]
+  },
+  "links": {
+    "heading": "~/our-links",
+    "items": [
+      {
+        "name": "WhatsApp",
+        "description": "Join our community chat for quick help and updates.",
+        "url": "#",
+        "icon": "whatsapp"
+      },
+      {
+        "name": "Telegram",
+        "description": "Channel and group for tutorials, resources and discussion.",
+        "url": "#",
+        "icon": "telegram"
+      },
+      {
+        "name": "Twitter (X)",
+        "description": "Follow for dev tips, news and project updates.",
+        "url": "#",
+        "icon": "x"
+      },
+      {
+        "name": "Reddit",
+        "description": "Questions, showcases and ideas from the community.",
+        "url": "#",
+        "icon": "reddit"
+      },
+      {
+        "name": "GitHub",
+        "description": "Source code, open-source projects and starter templates.",
+        "url": "#",
+        "icon": "github"
+      },
+      {
+        "name": "Patreon",
+        "description": "Support our work and get early access to new content.",
+        "url": "#",
+        "icon": "patreon"
+      }
+    ]
+  },
+  "footer": {
+    "blurb": "A developer community sharing tutorials, projects and tips in small, digestible bites.",
+    "exploreHeading": "Explore",
+    "nav": [
+      {
+        "label": "Home",
+        "href": "#top"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Our Links",
+        "href": "#links"
+      }
+    ],
+    "followHeading": "Follow us",
+    "copyright": "© {year} Dev With Spoon!. All rights reserved.",
+    "backToTop": "Back to top ↑"
+  }
+}
